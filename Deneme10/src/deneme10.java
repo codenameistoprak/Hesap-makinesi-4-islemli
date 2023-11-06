@@ -37,7 +37,7 @@ public class deneme10 {
 			System.out.println("İşlem gerçekleştirilemiyor...");
 		}
 
-		
+		scanner.close();
 	}
 
 }
